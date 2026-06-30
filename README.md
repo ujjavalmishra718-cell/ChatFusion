@@ -1,0 +1,1 @@
+AI Chatbot Web Application ,Developed a full-stack AI chatbot using React.js, Node.js, Express.js, and MongoDB with a responsive user interface and real-time messaging. Implemented REST APIs, asynchronous API calls using Axios, chat history storage, loading states, and error handling to provide a smooth user experience.
